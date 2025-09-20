@@ -3,3 +3,4 @@ TWRP
 Chon
 Polyphia
 Foxtide
+Favorite: TWRP0
